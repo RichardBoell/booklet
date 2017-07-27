@@ -1,1 +1,5 @@
-javascript:function(){alert("hi");}()
+function Hello(){
+  alert("hi");
+}
+
+Hello();
