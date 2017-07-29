@@ -1,5 +1,2 @@
-function Hello(){
-  alert("hi");
-}
-
-Hello();
+let body = document.querySelector("body")
+body.style.backgroundColor = "black"
