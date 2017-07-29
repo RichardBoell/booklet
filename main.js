@@ -1,3 +1,3 @@
-let body = document.querySelector("body");
-alert(body)
-body.style.backgroundColor = "black";
+//let body = document.querySelector("body");
+alert("hello")
+//body.style.backgroundColor = "black";
